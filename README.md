@@ -1,2 +1,2 @@
 # react-hiq9rj
-Atividade de react
+Atividade da faculdade de React
